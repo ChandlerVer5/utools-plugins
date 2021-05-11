@@ -14,7 +14,7 @@
     "@types/prismjs": "^1.16.1",
     "audio-player": "^1.1.0",
     "dayjs": "^1.8.28",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "marked": "^1.1.0",
     "prismjs": "^1.21.0",
     "utools-helper": "^1.0.5",
